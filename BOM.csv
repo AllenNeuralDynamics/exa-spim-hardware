@@ -1,0 +1,93 @@
+ITEM NO.,PART NUMBER,DESCRIPTION,QTY.
+1,table_B3648G,,1
+2,rail_XT95-1000,,2
+3,rail_XT95-500,,4
+4,rail_clamp_XT95P13,,10
+5,rail_plate_XT95EC1,,6
+6,post_RS6,,4
+7,post_RS1P,,4
+8,,,1
+9,board_L490,,1
+10,rail_carriage_XT95RC1,,11
+11,,,1
+12,veo_lens,,1
+13,veo_VJD5.0X-151M-X-Y T_V14,,1
+14,clamp_PF85B,,1
+15,post_RSH1.5,,1
+16,rail_plate_XT95P12,,3
+17,post_RS3,,5
+18,rail_positioner_XT95N,,1
+19,adapter_VJD5.0X MODULE_VNP-604MX_ADAPTER,,1
+20,chamber,,1
+21,filter,,1
+22,ring_SM45RR,,1
+23,window,,1
+24,window_66191,,1
+25,ring_SM2RR,,1
+26,2958N16,Sealing Plug,2
+27,7610N136,Universal-Thread Push-to-Connect Tube Fitting,1
+28,3-290845,,1
+29,3-290846,,1
+30,3-290847,,1
+31,3-292353,,1
+32,3-292316,,1
+33,8-7711,,3
+34,navitar_cap,,1
+35,navitar_adapter,,1
+36,navitar_window,,1
+37,kinematic_KCB2EC,,3
+38,cage_LCP30,,2
+39,cage_LCP01,,5
+40,kinematic_CXY2,,6
+41,cage_LCP33,,1
+42,kinematic_KCB1EC,,3
+43,kinematic_CXY1A,,1
+44,mirror_BBE1-E02,,3
+45,mirror_BBE2-E02,,3
+46,cage_LCP08,,2
+47,lens_ACT508-300-A-ML,,1
+48,plate_CP08,,1
+49,iris_SM1D12C,,1
+50,cage_CP33,,1
+51,rod_ER2,,12
+52,rod_ER12,,12
+53,post_PH2,,5
+54,post_TR3,,4
+55,post_PH1.5,,2
+56,post_TR1,,4
+57,post_PH1,,3
+58,tube_SM2L05,,1
+59,lens_ACT508-200-A,,1
+60,post_TR1.5,,1
+61,rod_ER6,,12
+62,rod_ER3,,4
+63,mount_SM1P1,,1
+64,mount_SM2A6,,1
+65,etl_EL-16-40-TC-VIS-20D-C,,1
+66,mount_LRM1,,1
+67,mount_SM1A11,,1
+68,mount_SM1T2,,1
+69,Shibuya_HLB_5X,,1
+70,mount_SM1A27,,1
+71,post_PH3,,1
+72,post_TR4,,1
+73,post_TR2,,1
+74,mount_AP90L,,2
+75,galvo_QS20Y-AG,,2
+76,clamp_BA1S,,2
+77,rotation_mount_C60-3060-SRS,,1
+78,adapter_SM1A10,,1
+79,tube_SM1L05E,,1
+80,adapter_SM2A21,,1
+81,galvo_clamp_1,,2
+82,galvo_clamp_2,,2
+83,post_PH30_M,,2
+84,lens_LJ1695RM,,1
+85,stage_MS-8000,,1
+86,stage_LS-100-FTP,,2
+87,insert_I-8001,,1
+88,sample_base_0284-200-04,Mounting cube bottom base,1
+89,sample_wall_0284-200-01,Mounting cube side wall #1,2
+90,sample_wall_0284-200-02,Mounting cube side wall #2,2
+91,sample_lid_0284-200-03,Mounting cube top,1
+92,u_mount_0284-100-01,,1
